@@ -2,3 +2,4 @@
 Git is free sofrware.
 Git has a multiple index called stage.
 Git tracks changes of files.
+Now I have a github account for myself!
