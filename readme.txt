@@ -5,4 +5,4 @@ Git tracks changes of files.
 Now I have a github account for myself!
 Creat a new branch is quick And simple.
 add merge.
-changes for me.
+changes for me and him.
